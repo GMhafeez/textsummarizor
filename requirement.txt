@@ -2,4 +2,4 @@ fastapi
 torch
 transformers
 huggingface-hub
-os
+python-dotenv
