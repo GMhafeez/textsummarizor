@@ -1,1 +1,1 @@
-this the text summarization tool built on transformer architecture 
+this the text generation tool using meta llama3.2 tool based on transformer architecture 
